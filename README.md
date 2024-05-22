@@ -28,6 +28,7 @@ O meu VideoDownloader é autoexplicativo, é uma ferramente que facilita o proce
   * Após isso, abra o terminal do windows e digite o seguinte comando:
 
     >comando: cd [local do arquivo]
+    
     ><img width=400px src="/images/local-de-arquivo.png">
 
   * Agora que você já está na pasta, execute este comando:
