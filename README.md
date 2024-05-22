@@ -8,4 +8,5 @@ O meu VideoDownloader é autoexplicativo, é uma ferramente que facilita o proce
 
 <p>Caso você queira apenas baixar a aplicação para testar o uso, siga os passos abaixo:</p>
 - GitClone no repositório ou baixar como .zip
+
   [Imagem do .zip]
