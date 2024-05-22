@@ -20,4 +20,15 @@ O meu VideoDownloader é autoexplicativo, é uma ferramente que facilita o proce
 [Imagem do .zip]
 
 
-- 
+- Instalar as bibliotecas necessárias, para isso, faça os seguintes comandos:
+  * Vá na pasta onde o video downloader está e copie o caminho.
+ 
+    >o meu é: C:\Users\mathe\OneDrive\Área de Trabalho\videodownloader
+
+  * Após isso, abra o terminal do windows e digite o seguinte comando:
+
+    >cd [local do arquivo]
+
+  * Agora que você já está na pasta, execute este comando:
+
+    >pip install -r requirements.txt
