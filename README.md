@@ -1,12 +1,12 @@
 
 
-Olá, meu nome é Matheus Maciel! Esse é um projeto básico de uma semana que eu acho que pode valer a pena ser documentado o passo a passo de produção.
+Olá, meu nome é Matheus Maciel! Esse é um projeto básico (feito em uma semana) que eu acho que pode valer a pena documentar o passo a passo de produção.
 
-O meu VideoDownloader é autoexplicativo, é uma ferramente que facilita o processo de baixar algum vídeo do youtube, no decorrer da documentação eu vou explicar como utilizá-la.
+O meu VideoDownloader é autoexplicativo, é uma ferramenta que facilita o processo de dowload de vídeos do youtube, no decorrer da documentação eu vou explicar como utilizá-la.
 
 # Instalação
 
-<p>Caso você queira apenas baixar a aplicação para testar o uso, siga os passos abaixo:</p>
+<p>Caso você queira baixar apenas a aplicação, siga os passos abaixo:</p>
 
 
 - Ter o python instalado.
