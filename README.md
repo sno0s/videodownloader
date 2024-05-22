@@ -7,7 +7,8 @@ O meu VideoDownloader é autoexplicativo, é uma ferramente que facilita o proce
 # Instalação
 
 <p>Caso você queira apenas baixar a aplicação para testar o uso, siga os passos abaixo:</p>
-- Ter o python instalado
+- a
+- asd
 
 >Link: https://www.python.org/downloads/
 - GitClone no repositório ou baixar como .zip
