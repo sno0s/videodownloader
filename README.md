@@ -17,7 +17,7 @@ O meu VideoDownloader é autoexplicativo, é uma ferramente que facilita o proce
 - GitClone no repositório ou baixar como .zip
 
 
-[Imagem do .zip]
+>[Imagem do .zip]
 
 
 - Instalar as bibliotecas necessárias, para isso, faça os seguintes comandos:
@@ -27,8 +27,12 @@ O meu VideoDownloader é autoexplicativo, é uma ferramente que facilita o proce
 
   * Após isso, abra o terminal do windows e digite o seguinte comando:
 
-    >cd [local do arquivo]
+    >comando: cd [local do arquivo]
 
   * Agora que você já está na pasta, execute este comando:
 
-    >pip install -r requirements.txt
+    >comando: pip install -r requirements.txt
+
+  * Após a instalação, agora é só abrir o arquivo gui.py:
+ 
+    >imagem
