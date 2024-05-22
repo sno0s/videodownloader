@@ -17,7 +17,7 @@ O meu VideoDownloader é autoexplicativo, é uma ferramente que facilita o proce
 - GitClone no repositório ou baixar como .zip
 
 
->[Imagem do .zip]
+><img width=400px src="/images/download.png">
 
 
 - Instalar as bibliotecas necessárias, para isso, faça os seguintes comandos:
@@ -28,11 +28,26 @@ O meu VideoDownloader é autoexplicativo, é uma ferramente que facilita o proce
   * Após isso, abra o terminal do windows e digite o seguinte comando:
 
     >comando: cd [local do arquivo]
+    ><img width=400px src="/images/local-de-arquivo.png">
 
   * Agora que você já está na pasta, execute este comando:
 
     >comando: pip install -r requirements.txt
+    ><img width=400px src="/images/instalacao-bibliotecas.png">
 
   * Após a instalação, agora é só abrir o arquivo gui.py:
  
-    >imagem
+    ><img width=400px src="/images/abrir-arquivo.png">
+
+
+
+
+# Funcionamento
+
+Esta é a tela inicial do programa, para usá-lo, basta colar o link do vídeo (tem que ser um vídeo do youtube), definir a resolução do vídeo e o local de download, é possível ver tanto pelo terminal quanto pelo programa quando o download for concluído.
+
+<img width=400px src="/images/tela-inicial.png">
+
+<img width=400px src="/images/terminal.png">
+
+
